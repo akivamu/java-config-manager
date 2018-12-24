@@ -1,0 +1,10 @@
+{
+  "web": {
+    "host": "0.0.0.0",
+    "note": "default",
+    "port": 8080,
+    "tls": false
+  },
+  "flatPropOriginOnly": "flatPropOriginOnly",
+  "flatProp": "flatProp"
+}

@@ -1,0 +1,10 @@
+{
+  "web": {
+    "host": "jsonmerger.com",
+    "port": 80,
+    "tls": true,
+    "additional": "new"
+  },
+  "flatProp": "flatPropUpdated",
+  "flatPropExtOnly": "flatPropExtOnly"
+}

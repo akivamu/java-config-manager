@@ -1,0 +1,19 @@
+{
+  "web": {
+    "host": "jsonmerger.com",
+    "port": 80,
+    "tls": true,
+    "additional": "new",
+    "users": [
+      "admin",
+      "guest",
+      "mod"
+    ],
+    "nested": {
+      "prop1": "prop1Ext",
+      "prop2": "prop2Ext"
+    }
+  },
+  "flatProp": "flatPropUpdated",
+  "flatPropExtOnly": "flatPropExtOnly"
+}

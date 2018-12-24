@@ -1,0 +1,6 @@
+{
+  "host": "jsonmerger.com",
+  "port": 80,
+  "tls": true,
+  "additional": "new"
+}
